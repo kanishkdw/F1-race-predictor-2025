@@ -19,10 +19,10 @@ This project uses historical race data to predict lap times and race outcomes, w
    cd f1-race-predictor
   
 2. Install dependencies:
-  ```bash
-  Copy code
-  pip install -r requirements.txt
-```
+     ```bash
+     Copy code
+     pip install -r requirements.txt
+      ```
 ## 🚀 Usage
 
 Run predictions for a specific race:
@@ -35,13 +35,17 @@ Launch the dashboard:
 
 
 ## 📊 Results
-Predictions for Chinese GP, Japanese GP, and Australian GP
-Evaluated using MAE
-Visualization of predicted vs actual results
+-Predictions for Chinese GP, Japanese GP, and Australian GP
+-Evaluated using MAE
+-Visualization of predicted vs actual results
 
 ## 🛠️ Tech Stack
 Python 3.x
+
 FastF1
+
 scikit-learn
+
 Streamlit
+
 Matplotlib / Seaborn
