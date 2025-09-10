@@ -35,9 +35,9 @@ Launch the dashboard:
 
 
 ## 📊 Results
--Predictions for Chinese GP, Japanese GP, and Australian GP
--Evaluated using MAE
--Visualization of predicted vs actual results
+- Predictions for Chinese GP, Japanese GP, and Australian GP
+- Evaluated using MAE
+- Visualization of predicted vs actual results
 
 ## 🛠️ Tech Stack
 Python 3.x
